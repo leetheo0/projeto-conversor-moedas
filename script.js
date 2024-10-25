@@ -43,4 +43,3 @@ document.getElementById("converterForm").addEventListener("submit", (event) => {
     event.preventDefault();
     converterMoeda();
 });
- 
